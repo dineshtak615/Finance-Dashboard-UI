@@ -81,8 +81,6 @@ Ensure you have Node.js installed, then run the following command sequence in th
 
 3. **Launch**: Open your testing browser and navigate to the local address Vite provides in the terminal (typically `http://localhost:5173`) to interact with the frontend dynamically.
 
-Alternatively, you can test the production-ready build instantly without running local dependencies directly at:
-👉 **[https://finance-dashboard-cyan-kappa.vercel.app](https://finance-dashboard-cyan-kappa.vercel.app)**
 
 ---
 *Developed for the Zorvyn Frontend Engineering Internship Assessment.*
