@@ -5,10 +5,6 @@
 
 Welcome to the Finance Dashboard UI, developed as part of the frontend engineering internship assessment for Zorvyn. This project is a highly interactive, extremely polished financial tracking application built with modern React.
 
-🌟 **Live Deployment**: [View Dashboard on Vercel](https://finance-dashboard-cyan-kappa.vercel.app)
-
-## 🚀 Overview of Approach
-
 My approach to this assessment was to go beyond basic functionality and deliver a **production-ready, premium user experience** that heavily prioritizes performance, visual depth, and seamless interactions. 
 
 Instead of relying on heavy pre-packaged component libraries, I implemented a bespoke **BentoGrid-inspired aesthetic** using pure Tailwind CSS v4. The structural architecture is deliberately decoupled—separating complex graphic background layers from the layout logic to ensure absolute stability, perfect responsive wrapping, and peak rendering performance.
